@@ -147,13 +147,3 @@ Use `LOGLEVEL=DEBUG python main.py` to enable detailed logging for troubleshooti
 Contributions are welcome. Please ensure code adheres to style guidelines (`ruff`, `black`) and maintains existing documentation standards. Substantive changes should include relevant tests.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. Refer to the `LICENSE` file for details.
-
----
-
-## Acknowledgements
-
-Developed by the Mechatronics team at **Repomix**.
