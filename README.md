@@ -139,11 +139,3 @@ Complexity: Approximately O(N log N) for indexing and O(Q log N) per query.
 | Empty results       | Stringent thresholds or insufficient data | Adjust similarity thresholds or verify preprocessing steps. |
 
 Use `LOGLEVEL=DEBUG python main.py` to enable detailed logging for troubleshooting.
-
----
-
-## Contributing
-
-Contributions are welcome. Please ensure code adheres to style guidelines (`ruff`, `black`) and maintains existing documentation standards. Substantive changes should include relevant tests.
-
----
